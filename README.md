@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MarketShop — React Native (Expo)
 
 > Mini application e-commerce mobile développée avec **React Native / Expo**
@@ -113,3 +114,6 @@ Avec plus de temps, il serait intéressant d'implémenter une recherche textuell
 
 ## 🔗 Lien vers la version Flutter
 👉 [marketshop-flutter] https://github.com/Connor1836/marketshop-flutter-AMADOU-rachid-HERIKOUM-Martinien
+=======
+# marketshop-react-AMADOU-rachid-HERIKOUM-Martinien
+>>>>>>> 2805f1ed418a85145f73b2e5ac92e0e2c3ec278a
